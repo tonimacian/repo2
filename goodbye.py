@@ -1,6 +1,6 @@
 
-def hello():
+def goodbye():
     print ("Goodbye world")
 
 if __name == "__main__":
-    hello()
+    goodbye()
